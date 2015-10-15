@@ -8,7 +8,7 @@ Linux Tools
 
 3. [Flamegraph](http://www.brendangregg.com/flamegraphs.html) -  Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.
 
-4. [spy tools for your operating system](http://jvns.ca/blog/2015/04/06/a-few-spy-tools-for-your-operating-system-other-than-strace/)
+4. [Spy tools for your operating system](http://jvns.ca/blog/2015/04/06/a-few-spy-tools-for-your-operating-system-other-than-strace/)
 
 
 #### Linux Performance Resources

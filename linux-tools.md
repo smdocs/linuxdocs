@@ -14,3 +14,4 @@ Linux Tools
 #### Linux Performance Resources
 
 1. [Brendan Gregg - linux performance page](http://www.brendangregg.com/linuxperf.html)
+2. [Julia Evans] -  [Debug programs as if they are closed source](http://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/)

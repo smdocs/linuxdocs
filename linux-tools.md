@@ -7,7 +7,8 @@ Linux Tools
 2. [Qperf](http://linux.die.net/man/1/qperf) - qperf measures bandwidth and latency between two nodes. It can work over TCP/IP as well as the RDMA transports.
 
 3. [Flamegraph](http://www.brendangregg.com/flamegraphs.html) -  Flame graphs are a visualization of profiled software, allowing the most frequent code-paths to be identified quickly and accurately.
-4. 
+
+4. [spy tools for your operating system](http://jvns.ca/blog/2015/04/06/a-few-spy-tools-for-your-operating-system-other-than-strace/)
 
 
 #### Linux Performance Resources

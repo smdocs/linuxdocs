@@ -10,7 +10,7 @@ Linux Tools
 
 4. [Spy tools for your operating system](http://jvns.ca/blog/2015/04/06/a-few-spy-tools-for-your-operating-system-other-than-strace/)
 
-5. [A zinc about strace]()
+5. [A zinc about strace](http://jvns.ca/blog/2015/04/14/strace-zine/)
 
 
 #### Linux Performance Resources

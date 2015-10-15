@@ -10,3 +10,6 @@ Linux Tools
 4. 
 
 
+#### Linux Performance Resources
+
+1. [Brendan Gregg - linux performance page](http://www.brendangregg.com/linuxperf.html)

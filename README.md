@@ -7,3 +7,4 @@ All my docs on Linux
 3. [Advanced Bash scripting Guide](http://www.tldp.org/LDP/abs/html/index.html)
 4. [Linux Performance Tuning Guide](http://www.thegeekstuff.com/2011/03/linux-performance-monitoring-intro/)
 5. [CPU Load Average](http://blog.scoutapp.com/articles/2009/07/31/understanding-load-averages)
+6. [Datastructures and Algorithms used in Linux](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)

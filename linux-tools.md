@@ -17,3 +17,4 @@ Linux Tools
 
 1. [Brendan Gregg - linux performance page](http://www.brendangregg.com/linuxperf.html)
 2. [Julia Evans] -  [Debug programs as if they are closed source](http://jvns.ca/blog/2014/04/20/debug-your-programs-like-theyre-closed-source/)
+3. [Linux kernel Development Bootcamp](https://github.com/GeorgiCodes/linux_bootcamp/tree/master/workshop/kernel)

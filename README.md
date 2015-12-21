@@ -9,6 +9,7 @@ All my docs on Linux
 6. [Datastructures and Algorithms used in Linux](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)
 7. [Basic Data Structures and Algorithms in the Linux kernel](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)
 9. [OS Development Wiki](http://wiki.osdev.org/Main_Page)
+10. [Book List for OS development](http://wiki.osdev.org/Books)
 
 
 ### Blogs

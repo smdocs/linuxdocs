@@ -10,6 +10,7 @@ All my docs on Linux
 7. [Basic Data Structures and Algorithms in the Linux kernel](http://cstheory.stackexchange.com/questions/19759/core-algorithms-deployed/19773?stw=2)
 9. [OS Development Wiki](http://wiki.osdev.org/Main_Page)
 10. [Book List for OS development](http://wiki.osdev.org/Books)
+11. [The Black Magic Of Systematically Reducing Linux OS Jitter](http://highscalability.com/blog/2015/4/8/the-black-magic-of-systematically-reducing-linux-os-jitter.html)
 
 
 ### Blogs

@@ -12,10 +12,12 @@ All my docs on Linux
 
 
 ### Blogs
+1. [The magic of strace](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/)
 
 ### Tutorials
 1. [James Molloy - kernel development tutorials](http://www.jamesmolloy.co.uk/tutorial_html/)
 2. [Brendan Gregg - website](http://www.brendangregg.com/)
+3. [Nixcraft - Linux tips, tutorials, hacks and ideas](http://www.cyberciti.biz/)
 
 ### Books
 1. [Assemblers and Loaders](http://www.davidsalomon.name/assem.advertis/asl.pdf)

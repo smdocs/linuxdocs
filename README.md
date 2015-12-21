@@ -22,10 +22,12 @@ All my docs on Linux
 4. [David R. O'Hallaron - Lecture Notes](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
 5. [Dr. Steve Goddard - Computer Systems Lecture Notes](http://cse.unl.edu/~goddard/Courses/JDEP284/Lectures.html)
 
+
 ### Books
 1. [Assemblers and Loaders](http://www.davidsalomon.name/assem.advertis/asl.pdf)
 2. [The Linux Cookbook: Tips and Techniques for Everyday Use](http://www.programmingcookbook.com/programming/ebooks/LinuxCookBook.pdf)
 3. [The Little Book about OS Development](http://littleosbook.github.io/#multitasking)
+4. [Practical File System Design](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
 
 ### Tools
 1. [Bochs - open source emulator project](http://bochs.sourceforge.net/)

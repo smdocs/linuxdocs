@@ -15,6 +15,7 @@ All my docs on Linux
 
 ### Tutorials
 1. [James Molloy - kernel development tutorials](http://www.jamesmolloy.co.uk/tutorial_html/)
+2. [Brendan Gregg - website](http://www.brendangregg.com/)
 
 ### Books
 1. [Assemblers and Loaders](http://www.davidsalomon.name/assem.advertis/asl.pdf)

@@ -29,6 +29,7 @@ All my docs on Linux
 2. [The Linux Cookbook: Tips and Techniques for Everyday Use](http://www.programmingcookbook.com/programming/ebooks/LinuxCookBook.pdf)
 3. [The Little Book about OS Development](http://littleosbook.github.io/#multitasking)
 4. [Practical File System Design](http://www.nobius.org/~dbg/practical-file-system-design.pdf)
+5. [Inside Linux](https://0xax.gitbooks.io/linux-insides/content/)
 
 ### Tools
 1. [Bochs - open source emulator project](http://bochs.sourceforge.net/)

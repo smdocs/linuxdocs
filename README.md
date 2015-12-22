@@ -29,6 +29,7 @@ All my docs on Linux
 3. [Nixcraft - Linux tips, tutorials, hacks and ideas](http://www.cyberciti.biz/)
 4. [David R. O'Hallaron - Lecture Notes](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
 5. [Dr. Steve Goddard - Computer Systems Lecture Notes](http://cse.unl.edu/~goddard/Courses/JDEP284/Lectures.html)
+6. [Advanced OS Course - Cambridge](http://teachbsd.org/)
 
 
 ### Books

@@ -32,6 +32,8 @@ All my docs on Linux
 5. [Dr. Steve Goddard - Computer Systems Lecture Notes](http://cse.unl.edu/~goddard/Courses/JDEP284/Lectures.html)
 6. [Advanced OS Course - Cambridge](http://teachbsd.org/)
 7. [A minimal x86 kernel](http://os.phil-opp.com/multiboot-kernel.html)
+8. [intermezzOS](http://intermezzos.github.io/book/)
+9. [A Barebones Kernel](https://github.com/thepowersgang)
 
 
 ### Books

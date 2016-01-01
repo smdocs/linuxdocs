@@ -31,6 +31,7 @@ All my docs on Linux
 4. [David R. O'Hallaron - Lecture Notes](http://www.cs.cmu.edu/afs/cs/academic/class/15213-f15/www/schedule.html)
 5. [Dr. Steve Goddard - Computer Systems Lecture Notes](http://cse.unl.edu/~goddard/Courses/JDEP284/Lectures.html)
 6. [Advanced OS Course - Cambridge](http://teachbsd.org/)
+7. [A minimal x86 kernel](http://os.phil-opp.com/multiboot-kernel.html)
 
 
 ### Books

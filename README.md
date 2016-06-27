@@ -22,7 +22,7 @@ All my docs on Linux
 
 
 ### Blogs
-1. [The magic of strace](http://chadfowler.com/blog/2014/01/26/the-magic-of-strace/)
+1. [The magic of strace](http://chadfowler.com/2014/01/26/the-magic-of-strace.html)
 2. [Julia Evans](http://jvns.ca/)
 3. [Russ Cox - Blog](http://research.swtch.com/)
 4. [Gil Teal - Stuff Gel says](http://stuff-gil-says.blogspot.com/)

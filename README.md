@@ -12,6 +12,7 @@ All my docs on Linux
 10. [Book List for OS development](http://wiki.osdev.org/Books)
 11. [The Black Magic Of Systematically Reducing Linux OS Jitter](http://highscalability.com/blog/2015/4/8/the-black-magic-of-systematically-reducing-linux-os-jitter.html)
 12. [TempleOS](http://www.templeos.org/Wb/Home/Wb2/TempleOS.html)
+13. [Ubuntu Kernel Wiki](https://wiki.ubuntu.com/Kernel/Dev)
 
 ### Linux Source Code
 1. [Browse Linux Source Code](http://www.tamacom.com/tour.html)

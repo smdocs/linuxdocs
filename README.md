@@ -27,6 +27,8 @@ All my docs on Linux
 2. [Julia Evans](http://jvns.ca/)
 3. [Russ Cox - Blog](http://research.swtch.com/)
 4. [Gil Teal - Stuff Gel says](http://stuff-gil-says.blogspot.com/)
+5. [Greg K-H's Linux Stuff](http://www.kroah.com/linux/)
+6. [A Linux Kernel Wizard’s Adventures in Embedded Hardware](https://www.linux.com/news/linux-kernel-wizards-adventures-embedded-hardware)
 
 ### Tutorials
 1. [James Molloy - kernel development tutorials](http://www.jamesmolloy.co.uk/tutorial_html/)

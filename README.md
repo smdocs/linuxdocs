@@ -14,6 +14,7 @@ All my docs on Linux
 12. [TempleOS](http://www.templeos.org/Wb/Home/Wb2/TempleOS.html)
 13. [Ubuntu Kernel Wiki](https://wiki.ubuntu.com/Kernel/Dev)
 14. [Computer Systems Lectures](http://cse.unl.edu/~goddard/Courses/JDEP284/Lectures.html)
+15. [Linux Memory Types](https://techtalk.intersec.com/2013/07/memory-part-1-memory-types/)
 
 ### Linux Source Code
 1. [Browse Linux Source Code](http://www.tamacom.com/tour.html)

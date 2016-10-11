@@ -1,4 +1,4 @@
-#Linux memeory Management - FAQs
+#Linux Memory Management - FAQs
 
 1. What is some existing documentation on Linux memory management?
 

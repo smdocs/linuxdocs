@@ -692,3 +692,4 @@
   http://linux-mm.org/HighMemory
   http://www.cs.columbia.edu/~smb/classes/s06-4118/l19.pdf
   http://book.opensourceproject.org.cn/kernel/kernelpri/opensource/0131181637/ch04lev1sec2.html
+  http://nommu.org/memory-faq.txt

@@ -41,6 +41,7 @@ All my docs on Linux
 7. [A minimal x86 kernel](http://os.phil-opp.com/multiboot-kernel.html)
 8. [intermezzOS](http://intermezzos.github.io/book/)
 9. [A Barebones Kernel](https://github.com/thepowersgang)
+10. [Kernel Development Tutorial](https://brennan.io/2016/11/14/kernel-dev-ep3/)
 
 
 ### Books

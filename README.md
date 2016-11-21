@@ -52,3 +52,4 @@ All my docs on Linux
 
 ### Tools
 1. [Bochs - open source emulator project](http://bochs.sourceforge.net/)
+2. [Linux System Calls](https://filippo.io/linux-syscall-table/)

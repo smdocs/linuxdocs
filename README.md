@@ -15,6 +15,7 @@ All my docs on Linux
 13. [Ubuntu Kernel Wiki](https://wiki.ubuntu.com/Kernel/Dev)
 14. [Computer Systems Lectures](http://cse.unl.edu/~goddard/Courses/JDEP284/Lectures.html)
 15. [Linux Memory Types](https://techtalk.intersec.com/2013/07/memory-part-1-memory-types/)
+16. [Linux System Calls](https://filippo.io/linux-syscall-table/)
 
 ### Linux Source Code
 1. [Browse Linux Source Code](http://www.tamacom.com/tour.html)

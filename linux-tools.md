@@ -12,6 +12,8 @@ Linux Tools
 
 5. [A zinc about strace](http://jvns.ca/blog/2015/04/14/strace-zine/)
 
+6. [Syscall Auditing at Scale](https://slack.engineering/syscall-auditing-at-scale-e6a3ca8ac1b8#.hpebobd1f)
+
 
 #### Linux Performance Resources
 

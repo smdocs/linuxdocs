@@ -1,6 +1,6 @@
-#Linux File System ```/proc```
+# Linux File System ```/proc```
 
-### /proc/1
+*** /proc/1 ***
 A directory with information about process number 1. Each process has a directory below /proc with the name being its process identification number.
 
 ### /proc/cpuinfo
